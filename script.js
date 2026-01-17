@@ -11,7 +11,7 @@ function updateButtonState() {
                 console.log("src");
                 window.open('https://google.com','_blank');
             }
-               }, 180000)
+               }, 30000)
     } else {
         alert("fine");
         
